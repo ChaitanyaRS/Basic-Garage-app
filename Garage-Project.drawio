@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.8">
+  <diagram id="JSDBYj-QrTemovNH4yzd" name="Page-1">
+    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="680" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-16" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Id(PK)&amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; Car name&amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp;Brand Name&amp;nbsp; &amp;nbsp; &amp;nbsp; | Car Color&amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp;Car Price&amp;nbsp; &amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-17" value="Garage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-19" value="Views" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="408" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-21" value="Search Bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="510" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-25" value="Car Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-23" value="Add Car" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="305" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-27" value="Car Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-28" value="Car Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-29" value="Car Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-30" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="305" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="730" width="680" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="730" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-35" value="Add Car" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="745" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-36" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="745" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="820" width="490" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-38" value="Car Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="860" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-39" value="Brand Name&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Car%20Name%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22250%22%20y%3D%22860%22%20width%3D%22210%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="910" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-40" value="Color" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="960" width="285" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-41" value="Price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1010" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-42" value="Add" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="1060" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-44" value="Car Details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="389" y="830" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-45" value="/AddCar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="408" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7L-NOOt1bUd8ChoZiZQ-46" value="/home" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="408" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
