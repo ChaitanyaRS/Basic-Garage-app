@@ -1,0 +1,21 @@
+.card{
+    width: 200px;
+    background-color: white;
+    padding: 5px 10px 10px 12px;
+    height: 200px;
+    border-radius: 10px;
+}
+.car-name{
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background: aliceblue;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.sub-name{
+    margin: 20px 10px 10px;
+}

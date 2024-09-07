@@ -21,9 +21,14 @@ public class GarageController {
         return service.carList();
     }
 
-    @GetMapping("cars/{id}")
+    @GetMapping("cars/car/{id}")
     public Optional<Car> getCar(@PathVariable("id") int id){
         return service.getCar(id);
+    }
+
+    @GetMapping("cars/{name}")
+    public List<Car> getCarByName(@PathVariable("name") String name ){
+        return service.getCarListByName(name);
     }
 
     @DeleteMapping("deletecar")

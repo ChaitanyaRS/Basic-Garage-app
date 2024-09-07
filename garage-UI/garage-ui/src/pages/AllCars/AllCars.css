@@ -1,0 +1,20 @@
+.car-list{
+    background-color: aliceblue;
+    background-color: aliceblue;
+    /* margin: 0px 0px 10px 10px; */
+    padding: 20px 20px 20px 30px;
+    flex-wrap: wrap;
+    place-content: flex-start;
+    gap: 50px;
+}
+.search{
+    width: 40%;
+    margin:10px;
+}
+
+.search-bar{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}

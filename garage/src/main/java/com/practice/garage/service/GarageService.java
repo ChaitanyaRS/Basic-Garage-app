@@ -33,4 +33,8 @@ public class GarageService {
     public Optional<Car> getCar(int id) {
         return repo.findById(id);
     }
+
+    public List<Car> getCarListByName(String name) {
+        return repo.findByCarNameContainingIgnoreCase(name);
+    }
 }
